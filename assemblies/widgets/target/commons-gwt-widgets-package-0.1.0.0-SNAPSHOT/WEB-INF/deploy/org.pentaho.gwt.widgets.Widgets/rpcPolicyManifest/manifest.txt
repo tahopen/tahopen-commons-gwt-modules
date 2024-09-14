@@ -1,0 +1,2 @@
+# Module org.pentaho.gwt.widgets.Widgets
+# RPC service class, partial path of RPC policy file
