@@ -12,8 +12,8 @@
     <version>0.1.0.0-SNAPSHOT</version>
   </parent>
 
-  <name>Pentaho Commons GWT</name>
-  <url>http://www.pentaho.org</url>
+  <name>Tahopen Commons GWT</name>
+  <url>http://www.yahopen.org</url>
 
   <licenses>
     <license>
@@ -32,12 +32,12 @@
     <license.licenseName>lgpl_v2_1</license.licenseName>
     <com.github.spotbugs.annotations.version>4.2.3</com.github.spotbugs.annotations.version>
   </properties>
-
+<!--
   <scm>
     <developerConnection>scm:git:git@github.com:pentaho/pentaho-commons-gwt-modules.git</developerConnection>
     <tag>HEAD</tag>
   </scm>
-
+-->
   <dependencyManagement>
     <dependencies>
       <!-- Compile Dependencies -->
